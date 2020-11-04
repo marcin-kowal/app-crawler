@@ -1,0 +1,3 @@
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --headless --disable-gpu --remote-debugging-port=9222 https://google.com
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --headless --disable-gpu --screenshot=C:\Git\crawler\screen.png https://google.com
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --headless --disable-gpu --print-to-pdf=C:\Git\crawler\screen.pdf https://google.com
